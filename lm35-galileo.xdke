@@ -1,9 +1,78 @@
 {
   "project": {
-    "projectSettingsVersion": "1.2",
+    "projectSettingsVersion": "2.0.0",
     "initialAutoPluginCount": 0,
     "currentBuildConfiguration": "Android",
     "projectFiles": {},
     "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "lm35-galileo.xdk": {
+        "previousModTime": 1461037389650,
+        "modified": 1461037389650,
+        "seen": true,
+        "name": "lm35-galileo.xdk"
+      },
+      "lm35-galileo.xdke": {
+        "previousModTime": 1461037389666,
+        "modified": 1461037389666,
+        "seen": true,
+        "name": "lm35-galileo.xdke"
+      },
+      "lm35-galileo_1.2.0.xdke_bak": {
+        "previousModTime": 1461037389623,
+        "modified": 1461037389623,
+        "seen": true,
+        "name": "lm35-galileo_1.2.0.xdke_bak"
+      },
+      "lm35-galileo_1.2.0.xdk_bak": {
+        "previousModTime": 1461037389623,
+        "modified": 1461037389623,
+        "seen": true,
+        "name": "lm35-galileo_1.2.0.xdk_bak"
+      },
+      "main.js": {
+        "previousModTime": 1461037422066,
+        "modified": 1461037422066,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1461037427664,
+        "modified": 1461037427664,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1461037350943,
+        "modified": 1461037350943,
+        "seen": true,
+        "name": "README.md"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1461037389643,
+        "modified": 1461037389643,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "lm35-galileo_1.2.0.xdk_bak": {
+        "previousModTime": 1461037446267
+      },
+      "main.js": {
+        "previousModTime": 1461037446267
+      },
+      "package.json": {
+        "previousModTime": 1461037446267
+      },
+      "README.md": {
+        "previousModTime": 1461037446267
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1461037446267
+      }
+    }
   }
 }

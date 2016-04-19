@@ -13,7 +13,7 @@ console.log("MRAA version: " + mraa.getVersion());
 
 var a = new mraa.Aio(0); // init analog pin 0
 
-function captureTemperature(socket) {`
+function captureTemperature(socket) {
     var b = a.read();
     b *= 0.48826125;
     
@@ -22,7 +22,7 @@ function captureTemperature(socket) {`
 }
 
 socket.on('connect', function(socket) {
-    console.log("User connected");l
+    console.log("User connected");
 
     
     var intervalId = setInterval(function() {
